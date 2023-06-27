@@ -10,9 +10,3 @@ payload  update {
 
 
 
-/*
-{
-"Bank": "HDFC",
-"SysID": "EU000000-0000-0000"
-}
-*/
